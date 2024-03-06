@@ -1,15 +1,15 @@
 # The Bin Packing Problem
 
 
-## Overview
-### The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
-Several algorithms will be implemented and tested following this project - among them include:
-```
-1. Greedy Algorithms (First Fit / Best Fit / Next Fit)
-2. Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
-3. Heuristic Algorithms / Particle Swarm Optimization
-4. Metaheuristic Algorithms / Genetic Algorithms
-```
+> [!OVERVIEW]
+> The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
+>Several algorithms will be implemented and tested following this project - among them include:
+>```
+>1. Greedy Algorithms (First Fit / Best Fit / Next Fit)
+>2. Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
+>3. Heuristic Algorithms / Particle Swarm Optimization
+>4. Metaheuristic Algorithms / Genetic Algorithms
+>```
 
 
 ## Compilation Instructions
