@@ -1,8 +1,9 @@
 # The Bin Packing Problem
 
 
-> [!NOTE]
-> The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
+## Overview
+The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
+>[!NOTE]
 >Several algorithms will be implemented and tested following this project - among them include:
 >```
 >1. Greedy Algorithms (First Fit / Best Fit / Next Fit)
