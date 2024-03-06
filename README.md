@@ -1,7 +1,7 @@
 # The Bin Packing Problem
 
 
-> [!OVERVIEW]
+> [!NOTE]
 > The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
 >Several algorithms will be implemented and tested following this project - among them include:
 >```
