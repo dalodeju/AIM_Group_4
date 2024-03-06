@@ -2,7 +2,10 @@
 
 
 ## Overview
-The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. This optimisation problem consists of assigning N items of different sizes into the smallest number of bins each with capacity, c (Wolpert, et al., 2013). Several algorithms will be implemented and tested following this project - among them include:
+### The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
+
+This optimisation problem consists of assigning N items of different sizes into the smallest number of bins each with capacity, 
+c (Wolpert, et al., 2013). Several algorithms will be implemented and tested following this project - among them include:
 
 1. Greedy Algorithms (First Fit / Best Fit / Next Fit)
 2. Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
@@ -25,7 +28,7 @@ The aim of this project is to evaluate various algorithms in one of the most fam
 1. Navigate to the project directory.
 2. To compile each algorithm you may use the following command:
 
-### Greedy Algorithms (First Fit / Best Fit / Next Fit)
+- Greedy Algorithms (First Fit / Best Fit / Next Fit)
    ```
    javac greedyFirstFit.java
    ```
@@ -35,21 +38,21 @@ The aim of this project is to evaluate various algorithms in one of the most fam
    ```
    javac greedyNextFit.java
    ```
-### Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
+- Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
    ```
    javac decreasingFirstFit.java
    ```
    ```
    javac decreasingBestFit.java
    ```
-### Heuristic Algorithms / Particle Swarm Optimization
+- Heuristic Algorithms / Particle Swarm Optimization
    ```
    javac heuristic.java
    ```
    ```
    javac particleSwarm.java
    ```
-### Metaheuristic Algorithms / Genetic Algorithms
+- Metaheuristic Algorithms / Genetic Algorithms
    ```
    javac metaheuristic.java
    ```
