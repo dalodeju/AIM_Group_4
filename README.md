@@ -1,8 +1,15 @@
 # The Bin Packing Problem
 
+Student Names & IDs:
+```
+Mohammed Abu Sirdaneh     20398888
+Youssef Hamad             20303493
+Samuel Joshua Anand       20497938
+Darrel Loh De Jun         20414780
+```
 
 ## Overview
-The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
+The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - the Bin Packing Problem. 
 >[!NOTE]
 >Several algorithms will be implemented and tested following this project - among them include:
 >```
