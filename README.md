@@ -26,7 +26,7 @@ The aim of this project is to evaluate various algorithms in one of the most fam
 
 1. Download and install Eclipse IDE for Java Developers from [eclipse.org](https://www.eclipse.org/downloads/packages/).
 
-2. Ensure that you have the JDK installed and properly configured on your system.
+2. Ensure that you have [JRE 17.0.1](https://download.eclipse.org/justj/jres/17/updates/release/17.0.1/index.html) installed.
 
 3. Install Git from [here](https://git-scm.com/downloads). Skip this step if already installed.
 
