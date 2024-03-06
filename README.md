@@ -4,29 +4,30 @@
 ## Overview
 ### The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
 Several algorithms will be implemented and tested following this project - among them include:
-
+```
 1. Greedy Algorithms (First Fit / Best Fit / Next Fit)
 2. Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
 3. Heuristic Algorithms / Particle Swarm Optimization
 4. Metaheuristic Algorithms / Genetic Algorithms
+```
 
 
-## Setup
+## Compilation Instructions
+### How to run
 
-1. **Install Eclipse IDE**: 
+1. Download and install Eclipse IDE for Java Developers from [eclipse.org](https://www.eclipse.org/downloads/packages/).
 
-Download and install Eclipse IDE for Java Developers from [eclipse.org](https://www.eclipse.org/downloads/packages/).
+2. Ensure that you have the JDK installed and properly configured on your system.
 
-2. **Install JDK:**  
+3. Install Git from [here](https://git-scm.com/downloads). Skip this step if already installed.
 
-Ensure that you have the JDK installed and properly configured on your system.
+4. Clone or download the project repository from this [link](https://github.com/dalodeju/AIM-Group-4.git).
+```
+git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
+```
 
-3. **Clone the Repository:**  
 
-Clone or download the project repository from this [link](https://github.com/dalodeju/AIM-Group-4.git).
-
-
-## Program Execution
+### Program Execution
 
 1. Navigate to the project directory.
 
