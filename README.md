@@ -3,9 +3,7 @@
 
 ## Overview
 ### The aim of this project is to evaluate various algorithms in one of the most famous and import NP-hard problem within Computer Science - The Bin Packing Problem. 
-
-This optimisation problem consists of assigning N items of different sizes into the smallest number of bins each with capacity, 
-c (Wolpert, et al., 2013). Several algorithms will be implemented and tested following this project - among them include:
+Several algorithms will be implemented and tested following this project - among them include:
 
 1. Greedy Algorithms (First Fit / Best Fit / Next Fit)
 2. Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
@@ -29,7 +27,9 @@ Clone or download the project repository from this [link](https://github.com/dal
 
 
 ## Program Execution
+
 1. Navigate to the project directory.
+
 2. You may use the following commands to compile each Algorithm:
 
 - Greedy Algorithms (First Fit / Best Fit / Next Fit)
