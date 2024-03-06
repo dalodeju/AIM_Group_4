@@ -44,34 +44,34 @@ git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
 
 - Greedy Algorithms (First Fit / Best Fit / Next Fit)
    ```
-   javac greedyFirstFit.java
+   javac GreedyFirstFit.java
    ```
    ```
-   javac greedyBestFit.java
+   javac GreedyBestFit.java
    ```
    ```
-   javac greedyNextFit.java
+   javac GreedyNextFit.java
    ```
 - Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
    ```
-   javac decreasingFirstFit.java
+   javac DecreasingFirstFit.java
    ```
    ```
-   javac decreasingBestFit.java
+   javac DecreasingBestFit.java
    ```
 - Heuristic Algorithms / Particle Swarm Optimization
    ```
-   javac heuristic.java
+   javac Heuristic.java
    ```
    ```
-   javac particleSwarm.java
+   javac ParticleSwarm.java
    ```
 - Metaheuristic Algorithms / Genetic Algorithms
    ```
-   javac metaheuristic.java
+   javac Metaheuristic.java
    ```
    ```
-   javac genetic.java
+   javac Genetic.java
    ```
 
 
