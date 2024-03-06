@@ -13,20 +13,24 @@ c (Wolpert, et al., 2013). Several algorithms will be implemented and tested fol
 4. Metaheuristic Algorithms / Genetic Algorithms
 
 
-## Prerequisites
-- Java Development Kit (JDK) installed on your system.
-- Basic understanding of Java programming language.
-
-
 ## Setup
-1. **Install Eclipse IDE**: Download and install Eclipse IDE for Java Developers from [eclipse.org](https://www.eclipse.org/downloads/packages/).
-2. **Install JDK:**  Ensure that you have the JDK installed and properly configured on your system.
-3. **Clone the Repository:**  Clone or download the project repository from this [link](https://github.com/dalodeju/AIM-Group-4.git).
+
+1. **Install Eclipse IDE**: 
+
+Download and install Eclipse IDE for Java Developers from [eclipse.org](https://www.eclipse.org/downloads/packages/).
+
+2. **Install JDK:**  
+
+Ensure that you have the JDK installed and properly configured on your system.
+
+3. **Clone the Repository:**  
+
+Clone or download the project repository from this [link](https://github.com/dalodeju/AIM-Group-4.git).
 
 
 ## Program Execution
 1. Navigate to the project directory.
-2. To compile each algorithm you may use the following command:
+2. You may use the following commands to compile each Algorithm:
 
 - Greedy Algorithms (First Fit / Best Fit / Next Fit)
    ```
