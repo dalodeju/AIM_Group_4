@@ -1,6 +1,6 @@
 # The Bin Packing Problem
-## Group: 4
-## Student Names & IDs:
+### Group: 4
+### Student Names & IDs:
 ```
 Mohammed Abu Sirdaneh     20398888
 Youssef Hamad             20303493
