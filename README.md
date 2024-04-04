@@ -16,7 +16,7 @@ The aim of this project is to evaluate various algorithms in one of the most fam
 >```
 >1. Greedy Algorithms (First Fit / Best Fit / Next Fit)
 >2. Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
->3. Djang and Finch Algorithm
+>3. Heuristic Algorithm
 >4. Metaheuristic Algorithms / Genetic Algorithms
 >```
 
@@ -59,18 +59,16 @@ git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
    ```
    javac DecreasingBestFit.java
    ```
-- Heuristic Algorithms / Particle Swarm Optimization
+- Heuristic Algorithms
    ```
-   javac DjangAndFinch.java
+   javac Heuristic.java
    ```
-- Metaheuristic Algorithms / Genetic Algorithms
-   ```
-   javac Metaheuristic.java
-   ```
+- Genetic Algorithms
    ```
    javac Genetic.java
    ```
-
+   
+3. Run each algorithm respectively.
 
 ## Evaluation
 
