@@ -14,10 +14,10 @@ The aim of this project is to evaluate various algorithms in one of the most fam
 >[!NOTE]
 >Several algorithms will be implemented and tested following this project - among them include:
 >```
->1. Greedy Algorithms (First Fit / Best Fit / Next Fit)
->2. Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
+>1. Genetic Algorithm
+>2. First Fit Decreasing Algorithm
 >3. Heuristic Algorithm
->4. Metaheuristic Algorithms / Genetic Algorithms
+>4. Simulated Annealing
 >```
 
 
@@ -42,30 +42,21 @@ git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
 
 2. You may use the following commands to compile each Algorithm:
 
-- Greedy Algorithms (First Fit / Best Fit / Next Fit)
-   ```
-   javac GreedyFirstFit.java
-   ```
-   ```
-   javac GreedyBestFit.java
-   ```
-   ```
-   javac GreedyNextFit.java
-   ```
-- Decreasing Algorithms (First Fit Decreasing / Best Fit Decreasing)
-   ```
-   javac DecreasingFirstFit.java
-   ```
-   ```
-   javac DecreasingBestFit.java
-   ```
-- Heuristic Algorithms
-   ```
-   javac Heuristic.java
-   ```
 - Genetic Algorithms
    ```
    javac Genetic.java
+   ```
+- First Fit Decreasing Algorithm
+   ```
+   javac FFD.java
+   ```
+- Heuristic Algorithm
+   ```
+   javac Heuristic.java
+   ```
+- Simulated Annealing
+   ```
+   javac SimulatedAnnealing.java
    ```
    
 3. Run each algorithm respectively.
