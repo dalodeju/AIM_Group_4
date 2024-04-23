@@ -40,7 +40,9 @@ git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
 
 1. Navigate to the project directory.
 
-2. You may use the following commands to compile each Algorithm:
+2. Unzip each the zip file for each respective algorithm.
+
+3. You may use the following commands to compile each Algorithm:
 
 - Genetic Algorithms
    ```
@@ -59,4 +61,4 @@ git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
    javac SimulatedAnnealing.java
    ```
    
-3. Run each algorithm respectively.
+4. Run each algorithm respectively.
