@@ -44,7 +44,7 @@ git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
 
 - Genetic Algorithms
    ```
-   javac Genetic.java
+   javac BinPackingGA.java
    ```
 - First Fit Decreasing Algorithm
    ```
