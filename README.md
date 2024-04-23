@@ -60,8 +60,3 @@ git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
    ```
    
 3. Run each algorithm respectively.
-
-## Evaluation
-
-
-## Conclusion
