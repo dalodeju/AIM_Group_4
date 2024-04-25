@@ -2,10 +2,10 @@
 ## Student Details
 ### Names & IDs:
 ```
-Mohammed Abu Sirdaneh     20398888
-Youssef Hamad             20303493
 Samuel Joshua Anand       20497938
+Mohammed Abu Sirdaneh     20398888
 Darrel Loh De Jun         20414780
+Youssef Hamad             20303493
 ```
 ### Group: 4
 
