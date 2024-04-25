@@ -16,7 +16,7 @@ The aim of this project is to evaluate various algorithms in one of the most fam
 >```
 >1. Genetic Algorithm
 >2. First Fit Decreasing Algorithm
->3. Heuristic Algorithm
+>3. Best Fit Heuristic Algorithm
 >4. Simulated Annealing
 >```
 
@@ -52,7 +52,7 @@ git clone https://github.com/dalodeju/COMP2042_CW_efydl.git
    ```
    javac FFD.java
    ```
-- Heuristic Algorithm
+- Best Fit Heuristic Algorithm
    ```
    javac Heuristic.java
    ```
